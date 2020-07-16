@@ -1,0 +1,11 @@
+{
+  "name": "cr-commerce-api",
+  "author": "Josué Gabuardi <https://github.com/Gabuardi> (https://github.com/Gabuardi)",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "express": "~4.16.1",
+    "mssql": "^6.2.0"
+  }
+}
